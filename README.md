@@ -1,4 +1,5 @@
-### Hi there 👋
+Hola mi nombre es Maximiliano Yañez 
+Actualmente estoy estudiando el curso de fundamentos en programacion web 
 
 <!--
 **MaxYJ29/MaxYJ29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
